@@ -14,6 +14,9 @@
 
 -------
 
+# 案例
+请参阅 [PanguDemo](https://github.com/Muyv/PanguDemo) 项目
+
 # Pangu 是什么
 为方便应用开发团队快速构建服务端应用程序而提供的开发框架。
 
@@ -284,6 +287,3 @@ Pangu 应用的日志配置文件名称符合如下规则均可被解析为程�
 2. 在启动类上加注解声明启用该组件，可在注解参数中做少量设置
 > 注解一般是 `@EnableXXX` 这种格式
 3. 调用方式各不相同，具体用法这里会提供组件使用文档
-
-# 案例
-请参阅 [PanguDemo](https://github.com/Muyv/PanguDemo) 项目
